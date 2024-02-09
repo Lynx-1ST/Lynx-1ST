@@ -1,7 +1,17 @@
-### Hi there 👋
+Dao Quang Loc
+--------------------------------------------------
+
+Hi there, I am Loc studying IT at Hanoi University of Mining and Geology. Welcome to my GitHub! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
-**Lynx-1ST/Lynx-1ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RiZ3NT8X/RiZ3NT8X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
