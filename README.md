@@ -3,9 +3,9 @@ Dao Quang Loc
 
 Hi there, I am Loc studying IT at Hanoi University of Mining and Geology. Welcome to my GitHub! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lynx-1ST)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trucnguyen10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
