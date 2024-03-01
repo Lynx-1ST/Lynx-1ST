@@ -1,26 +1,15 @@
-Dao Quang Loc
---------------------------------------------------
+[![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440?borderRadius=10px&idleMessage=Nenhuma%20atividade)](https://discord.com/users/1081547609979756596)
 
-Hi there, I am Loc studying IT at Hanoi University of Mining and Geology. Welcome to my GitHub! 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=omni&hide_border=false&include_all_commits=true&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lynx-1ST)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lynx-1ST&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Lynx-1ST&icon=5&color=1)](https://visitcount.itsvg.in)
 
-
-
-
-<!--
-**RiZ3NT8X/RiZ3NT8X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
