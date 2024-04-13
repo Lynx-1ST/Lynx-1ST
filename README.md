@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1081547609979756596?borderRadius=10px&idleMessage=Vietnamese&Student)](https://discord.com/users/1081547609979756596)
 
-# 💻 Ngôn ngữ chủ yếu:
+# 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=omni&hide_border=false&include_all_commits=true&count_private=false) 
@@ -10,6 +10,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Lynx-1ST&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lynx-1ST&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Lynx1ST&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
