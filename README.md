@@ -24,26 +24,28 @@
 
 ### Primary Languages:
   [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
-  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
   [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=java"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
 
 ### Exploring:
-  [<img height="48px" width="48px" alt="Rust" src="https://skillicons.dev/icons?i=rust"/>](https://doc.rust-lang.org/book/title-page.html)
+  [<img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>]()
+  [<img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>]()
   [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.learnpython.org/)
+  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=nodejs"/>](https://www.https://nodejs.org/)
 
 
 #### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=Jetbrains"/>](https://www.jetbrains.com/)
+  [<img height="48px" width="48px" alt="Jetbrains" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/)
+  [<img height="48px" width="48px" alt="Jetbrains" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 
 <br>
 
 ## Contact me:
 <div>
 <a href="https://discord.com/users/1081547609979756596" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1081547609979756596?borderRadius=10px&idleMessage=)](https://discord.com/users/1081547609979756596)
