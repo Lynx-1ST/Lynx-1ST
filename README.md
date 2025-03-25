@@ -1,17 +1,47 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1081547609979756596?borderRadius=10px&idleMessage=)](https://discord.com/users/1081547609979756596)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4f4f&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I%27m+a+Student+focusing+on+App+Development)](https://git.io/typing-svg)
 
-# 💻 Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
+<h4 align="center">- Lynx_1ST -</h4>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=omni&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h4 align="center">
+ 
+ ![](https://komarev.com/ghpvc/?username=yuhkix&style=plastic&color=9b93e5)
+ 
+</h4>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lynx-1ST&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Lynx1ST&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Lynx&theme=aura_dark&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx&layout=compact&theme=aura_dark" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br>
+
+## Languages and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### Primary Languages:
+  [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
+  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
+
+### Exploring:
+  [<img height="48px" width="48px" alt="Rust" src="https://skillicons.dev/icons?i=rust"/>](https://doc.rust-lang.org/book/title-page.html)
+  [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.learnpython.org/)
+
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+
+<br>
+
+## Contact me:
+<div>
+<a href="https://discord.com/users/1081547609979756596" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
