@@ -48,4 +48,4 @@
 <div>
 <a href="https://discord.com/users/1081547609979756596" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1081547609979756596?borderRadius=10px&idleMessage=)](https://discord.com/users/1081547609979756596)
+<h4 align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/1081547609979756596?borderRadius=10px&idleMessage=)](https://discord.com/users/1081547609979756596) </h4>
