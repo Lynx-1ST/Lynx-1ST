@@ -18,7 +18,7 @@
 
 <br>
 
-## Languages and Tools
+## Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## Contact me:
+## Contact me (7AM - 10PM GMT7):
 <div>
 <a href="https://discord.com/users/1081547609979756596" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%234E59E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
