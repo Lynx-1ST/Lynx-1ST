@@ -24,7 +24,6 @@
 
 ### Primary Languages:
   [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://www.learncpp.com)
-  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=c"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
   [<img height="48px" width="48px" alt="C" src="https://skillicons.dev/icons?i=java"/>](https://learn.microsoft.com/en-us/cpp/c-language/)
 
@@ -33,7 +32,7 @@
   [<img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>]()
   [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.learnpython.org/)
   [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=nodejs"/>](https://www.https://nodejs.org/)
-
+  [<img height="48px" width="48px" alt="C#" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### Tools:
   [<img height="48px" width="48px" alt="Jetbrains" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/)
