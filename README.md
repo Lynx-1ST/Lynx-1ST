@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lynx-1ST&theme=gruvbox&hide_border=true&locale=vi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-eta-pied.vercel.app?user=Lynx-1ST&theme=catppuccin-frappe&hide_border=true&locale=vi&mode=weekly&background=45%2C460000%2C7B2D7E)](https://git.io/streak-stats)
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=aura_dark&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST&layout=compact&theme=aura_dark" />
 </div>
