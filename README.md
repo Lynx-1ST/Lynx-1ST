@@ -5,13 +5,13 @@
 <h4 align="center">
  
  ![](https://komarev.com/ghpvc/?username=Lynx-1ST&style=plastic&color=9b93e5)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lynx-1ST&theme=gruvbox&hide_border=true&locale=vi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </h4>
 
 <br>
 
 <div align="center" style="margin-bottom:200px">
- [![GitHub Streak](https://streak-stats.demolab.com?user=Lynx-1ST&theme=gruvbox&hide_border=true&locale=vi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lynx-1ST&theme=gruvbox&hide_border=true&locale=vi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=aura_dark&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynx-1ST&layout=compact&theme=aura_dark" />
 </div>
