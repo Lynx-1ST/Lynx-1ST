@@ -10,7 +10,9 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-eta-pied.vercel.app?user=Lynx-1ST&theme=catppuccin-frappe&hide_border=true&locale=vi&mode=weekly&background=45%2C460000%2C7B2D7E)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-pied.vercel.app?user=Lynx-1ST&theme=catppuccin-frappe&hide_border=true&locale=vi&mode=weekly&background=45%2C460000%2C7B2D7E" alt="GitHub Streak" /></a>
+</p>
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Lynx-1ST&theme=aura_dark&show_icons=true" />
